@@ -1,0 +1,31 @@
+{
+  "C_Cpp_Runner.warnings": [
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic"
+  ],
+  "C_Cpp_Runner.compilerArgs": [],
+  "C_Cpp_Runner.includePaths": [],
+  "C_Cpp_Runner.linkerArgs": [],
+  "C_Cpp_Runner.cStandard": "",
+  "C_Cpp_Runner.cppStandard": "",
+  "C_Cpp_Runner.excludeSearch": [],
+  "C_Cpp_Runner.enableWarnings": true,
+  "C_Cpp_Runner.warningsAsError": false,
+  "files.associations": {
+    "stdint.h": "c",
+    "test_ecc_utils.h": "c",
+    "constants.h": "c",
+    "ecc_platform_specific.h": "c",
+    "ecc.h": "c",
+    "ble_evt.h": "c",
+    "nrf_mesh_serial.h": "c",
+    "nrf_mesh_defines.h": "c",
+    "serial_cmd.h": "c",
+    "serial_cmd_rsp.h": "c",
+    "serial_status.h": "c",
+    "ble_evt_print.h": "c",
+    "generic_onoff_messages.h": "c"
+  },
+  "git.ignoreLimitWarning": true
+}
