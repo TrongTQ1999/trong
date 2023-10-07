@@ -9,7 +9,7 @@ MODUN=BleGW0
 
 all: $(OBJ)
 	@echo build cmd  $(OBJ)
-	gcc -o $(MODUN) $^ $(CFLAGS) $(LIBS)
+	gcc -o $(MODUN) $^ $(CFLAGS)
 
 clean:
 	@echo clean build
